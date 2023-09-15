@@ -14,7 +14,7 @@ Data description:
 
 Code description:
 
-"KBLTD_ARD.m" code for the KBLTDARD method of this study
+"KBLTD_ARD.m" code for the KBLTDARD method of this study.
 
 "main_KBLTD_ARD_datav2.m" represents the code for performing 5-fold cross validation on HMDD v2.0.
 
