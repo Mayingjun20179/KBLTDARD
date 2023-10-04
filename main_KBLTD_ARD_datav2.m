@@ -43,7 +43,7 @@ for k=1:k_folds
     %%%%%%%%%%%%%%%%%%%%%%%%%
     train_tensor = cv_data{k,1};    %train matrix
 
-    Y = xiuzheng_Y(train_tensor,Su,Sv);
+    Y = train_tensor;
     
     KSNS_Su = KSNS_opt(NNDSVD(double(tenmat(Y,1)),20,0));
     Su = DCA_opt({KSNS_Su,Su});
