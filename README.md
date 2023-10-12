@@ -1,8 +1,6 @@
 # KBLTDARD
 
-Kernel Bayesian logistic tensor decomposition with automatic rank determination for predicting multiple types of miRNA-disease associations
-
-This is the data and code for the paper "Kernel Bayesian logistic tensor decomposition with automatic rank determination for predicting multiple types of miRNA-disease associations".  Please cite if you use this code.
+This is the data and code for the KBLTD.  Please cite if you use this code.
 
 Data description:
 
