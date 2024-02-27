@@ -1,7 +1,7 @@
 Matlab code of Kernel Bayesian logistic tensor decomposition with automatic rank determination for predicting multiple types of miRNA-disease associations
 
 We provide one demo code: mianZ.m
-
+KBLTD_ARD.m：Kernel Bayesian logistic tensor decomposition with automatic rank determination.
 The package includes two benchmark datasets:
 data_v2.mat：Benchmark dataset for HMDD v2.0
 data_v32.mat： Benchmark dataset for HMDD v3.2

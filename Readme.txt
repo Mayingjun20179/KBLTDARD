@@ -16,7 +16,7 @@ II. main_KBLTD_ARD_datav32.m   Performing 5-fold cross validation on HMDD v3.2
 
 
 The “Algorithms” folder contains the relevant calculation code for KBLTD_ARD:
-KBLTD_ARD.m：KBLTDARD method of this study.
+KBLTD_ARD.m：Kernel Bayesian logistic tensor decomposition with automatic rank determination.
 
 The Dataset folder contains all experimental data in this paper:
 I. data_v2.mat：Benchmark dataset for HMDD v2.0
