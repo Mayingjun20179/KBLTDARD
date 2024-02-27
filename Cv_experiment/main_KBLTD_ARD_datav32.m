@@ -10,12 +10,12 @@ if strcmp(method_name,'KBLTD_ARD')==1
         cv_data = cross_validation1(inter_tensor,k_folds);
         result = cv_KBLTD_ARD_data_v32(DATA,cv_data,'cv_type');
         KBLTD_ARD_data_v32_type = result;
-        save .\result\KBLTD_ARD_data_v32_type KBLTD_ARD_data_v32_type;
+        save .\KBLTD_ARD_data_v32_type KBLTD_ARD_data_v32_type;
     elseif strcmp(cv_exper,'cv_triplet')==1
         cv_data = cross_validation2(inter_tensor,k_folds);
         result = cv_KBLTD_ARD_data_v32(DATA,cv_data,'cv_triplet');
         KBLTD_ARD_data_v32_triplet = result;
-        save .\result\KBLTD_ARD_data_v32_triplet KBLTD_ARD_data_v32_triplet;
+        save .\KBLTD_ARD_data_v32_triplet KBLTD_ARD_data_v32_triplet;
     end
 end
 
