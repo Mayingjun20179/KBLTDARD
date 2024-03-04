@@ -1,4 +1,7 @@
+#KBLTDARD
+
 Matlab code of Kernel Bayesian logistic tensor decomposition with automatic rank determination for predicting multiple types of miRNA-disease associations
+
 (Written by Yingjun Ma 2024)
 
 
@@ -11,8 +14,7 @@ To run the code:
 Demo code:   mianZ.m
 
 The “Cv_experiment” folder contains related experiments on both datasets
-I.  main_KBLTD_ARD_datav2.m:    Performing 5-fold cross validation on HMDD v2.0
-II. main_KBLTD_ARD_datav32.m   Performing 5-fold cross validation on HMDD v3.2
+
 
 
 The “Algorithms” folder contains the relevant calculation code for KBLTD_ARD:
