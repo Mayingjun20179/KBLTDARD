@@ -2,7 +2,7 @@
 
 Matlab code of Kernel Bayesian logistic tensor decomposition with automatic rank determination for predicting multiple types of miRNA-disease associations
 
-(Written by Yingjun Ma 2024)
+(Written by Yingjun Ma, 2024)
 
 
 To run the code:
